@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Hapi Server Factory",
   "author": "Michael Phelan <phelan.map@gmail.com>",
-  "private": true,
+  "main": "src/index.js",
   "scripts": {
     "lint": "eslint --ext .js /src"
   },
